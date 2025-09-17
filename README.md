@@ -1,6 +1,7 @@
 # PEEK
 
 Peek helps diabetic people measure the sugar level through fluids like blood, uraine, and more - making it easy to track the glucose level. 
+Won 2nd place at Tsofen Hackathon
 
 Demo Vidoe: 
 https://drive.google.com/file/d/1IzO37FAx_5tKBgAWY5xR8byGsbvz-GJi/view?usp=sharing
